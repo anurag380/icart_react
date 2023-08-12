@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@1,600&display=swap');
+.hd{font-family: 'Fira Sans Condensed', sans-serif;}
+
+
+
+.nav{font-size: 20px; 
+    font-family: 'Fira Sans Condensed', sans-serif;}
+
+.nav:hover{border-radius: 10px;
+            background-color:bisque;
+
+        }
+
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:wght@400&display=swap');
+.hm{font-family: 'Amaranth', sans-serif;}
+.phn{font-family: 'Amaranth', sans-serif;}
+.pad{font-family: 'Amaranth', sans-serif;}
+.mac{font-family: 'Amaranth', sans-serif;}
+.wt{font-family: 'Amaranth', sans-serif;}
+.cr{font-family: 'Amaranth', sans-serif;}
+.lg{font-family: 'Amaranth', sans-serif;}
